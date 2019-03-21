@@ -1,0 +1,12 @@
+{
+  "name": "memobr/yii2-ethereum",
+  "description": "Yii2 Ethereum Rpc Client",
+  "keywords": ["yii2", "ethereum","rpc"],
+  "type": "yii2-extension",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "memobr\\yii2-ethereum\\": "src"
+    }
+  }
+}
