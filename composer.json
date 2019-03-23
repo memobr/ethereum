@@ -1,5 +1,5 @@
 {
-  "name": "memobr/yii2-ethereum",
+  "name": "memobr/ethereum",
   "description": "Yii2 Ethereum Rpc Client",
   "keywords": ["yii2", "ethereum","rpc"],
   "type": "yii2-extension",
